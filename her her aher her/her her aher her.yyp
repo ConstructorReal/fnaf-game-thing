@@ -35,12 +35,16 @@
   },
   "name":"her her aher her",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_cambutton","path":"objects/obj_cambutton/obj_cambutton.yy",},},
+    {"id":{"name":"room_cams","path":"rooms/room_cams/room_cams.yy",},},
+    {"id":{"name":"room_office","path":"rooms/room_office/room_office.yy",},},
+    {"id":{"name":"Monitor1button","path":"sprites/Monitor1button/Monitor1button.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"room_office","path":"rooms/room_office/room_office.yy",},},
+    {"roomId":{"name":"room_cams","path":"rooms/room_cams/room_cams.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
