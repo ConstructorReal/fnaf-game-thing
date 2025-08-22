@@ -38,6 +38,7 @@
     {"id":{"name":"obj_cambutton","path":"objects/obj_cambutton/obj_cambutton.yy",},},
     {"id":{"name":"room_cams","path":"rooms/room_cams/room_cams.yy",},},
     {"id":{"name":"room_office","path":"rooms/room_office/room_office.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Monitor1button","path":"sprites/Monitor1button/Monitor1button.yy",},},
   ],
   "resourceType":"GMProject",
